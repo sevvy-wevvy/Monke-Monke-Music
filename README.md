@@ -1,15 +1,15 @@
 <h1 align="center">🎵 Monke Monke Music 🎵</h1>
 
 <p align="center">
-<b>A optimization mod for Gorilla Tag to make the game smoother with lots of configuration.</b>
+<b>A simple music manger addon for Gorilla Tag.</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/sevvy-wevvy/Gorilla-Optimizer/releases/latest">
-    <img src="https://img.shields.io/github/downloads/sevvy-wevvy/Gorilla-Optimizer/total?label=Downloads&style=for-the-badge" alt="Downloads">
+  <a href="https://github.com/sevvy-wevvy/Monke-Monke-Music/releases/latest">
+    <img src="https://img.shields.io/github/downloads/sevvy-wevvy/Monke-Monke-Music/total?label=Downloads&style=for-the-badge" alt="Downloads">
   </a>
-  <a href="https://github.com/sevvy-wevvy/Gorilla-Optimizer/releases/latest">
-    <img src="https://img.shields.io/github/v/release/sevvy-wevvy/Gorilla-Optimizer?label=Version&style=for-the-badge&color=red" alt="Version">
+  <a href="https://github.com/sevvy-wevvy/Monke-Monke-Music/releases/latest">
+    <img src="https://img.shields.io/github/v/release/sevvy-wevvy/Monke-Monke-Music?label=Version&style=for-the-badge&color=red" alt="Version">
   </a>
   <a href="https://sevvy-wevvy.com/discord">
     <img src="https://img.shields.io/discord/1398944180079689728?label=Discord&style=for-the-badge" alt="Discord">
@@ -22,29 +22,10 @@
 </p>
 
 <p align="center">
-  Gorilla Optimizer is a simple yet useful optimization mod for Gorilla Tag with tons of configuration.<br>
-  I spent tons of time researching on unitys build in optimization options and optimizing the mod itself, so please enjoy.<br> <br>
+  Monke Monke Music adds music controls near where the player spawns to: play music, pause music, continue to the next track, and rewind the track.<br> <br>
   Do you like this mod? If so, please let me know!  
   <a href="https://sevvy-wevvy.com/discord">Discord</a>
 </p>
-
-<p align="center">
-<a href="https://github.com/sevvy-wevvy/Several-Bees" target="_blank" style="margin-left:10px;">
-  <img src="https://img.shields.io/badge/Several%20Bees-yellow?style=for-the-badge&label=Depends%20On&labelColor=grey" 
-       alt="Depends On Several Bees" height="19">
-</a>
-</p>
-
-<details>
-<summary align="center"><b>✅ Easy Install ✅</b></summary>
-
-<p align="center">
-To easly install Several Bees, you can use Monke Mod Manager<br>
-MMM is relitivly easy to use, below are the dowloand links for difrent operating systems.<br>
-<a href="https://github.com/The-Graze/MonkeModManager/releases/latest/download/MonkeModManager.exe">Windows</a><br>
-<a href="https://github.com/arielthemonke/MonkeModManager/releases/latest/download/MonkeModManager.Linux">Linux</a>
-</p>
-</details>
 
 <details>
 <summary align="center"><b>🛠 Pull Requests 🛠</b></summary>
@@ -89,7 +70,8 @@ As long as it works, its very likley to get accepted.
 <p align="center">
 I accept donations over few platforms, below are where you can help support my projects and more.<br>
 <b>Patreon</b> - https://sevvy-wevvy.com/patreon<br>
-<b>Ko-fi</b> - https://sevvy-wevvy.com/kofi
+<b>Ko-fi</b> - https://sevvy-wevvy.com/kofi<br>
+<b>Throne</b> - https://sevvy-wevvy.com/throne
 </p>
 </details>
 

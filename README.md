@@ -1,4 +1,4 @@
-<h1 align="center">⏩ Gorilla Optimizer ⏩</h1>
+<h1 align="center">🎵 Monke Monke Music 🎵</h1>
 
 <p align="center">
 <b>A optimization mod for Gorilla Tag to make the game smoother with lots of configuration.</b>
